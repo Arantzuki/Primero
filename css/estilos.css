@@ -1,0 +1,20 @@
+.container{
+    background-color: aquamarine;
+}
+img{
+    width: 300px;
+    height: 300px;
+   
+}
+body{
+    width: 60%;
+    
+}
+.carousel-inner{
+    margin-left: 220px;
+
+}
+form{
+    text-align: center;
+}
+

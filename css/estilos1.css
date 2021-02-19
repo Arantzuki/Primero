@@ -1,0 +1,15 @@
+.carousel, .carousel-inner{
+    max-height: 300px;
+}
+.card{
+    margin: 1em;
+    
+}
+body{
+    width: 60%;
+    margin: auto;
+}
+img{
+    width: 300px;
+    height: 350px;
+}
